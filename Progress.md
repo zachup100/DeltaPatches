@@ -3,7 +3,6 @@ This is our list, containing cobblemon that was reported to us that have some is
 Please be aware, that only one person is working on fixing the textures. So it may take us some time to get to one of the cobblemon!
 
 # Broken Textures
-> Pinsir (shiny_alt)<br>
 > Slowking (shiny_alt)<br>
 > Mamoswine (shiny_alt)<br>
 > Cinderace (shiny_alt)<br>
@@ -15,3 +14,8 @@ Please be aware, that only one person is working on fixing the textures. So it m
 # Missing Models
 > Rising Phoenix (CAN'T FIX, Model is not given by the Delta Team)<br>
 > Whirling Abyss (CAN'T FIX, Model is not given by the Delta Team)<br>
+
+# Fixed models
+> Pinsir (shiny alternative)<br>
+> Porygon-Z (Game Corner)<br>
+> Steelix Mega Shiny (didn't have a model)<br>
