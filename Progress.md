@@ -14,6 +14,7 @@ Please be aware, that only one person is working on fixing the textures. So it m
 # Missing Models
 > Rising Phoenix (CAN'T FIX, Model is not given by the Delta Team)<br>
 > Whirling Abyss (CAN'T FIX, Model is not given by the Delta Team)<br>
+> Iron Revival (CAN'T FIX, Model is not given by the Delta Team)<br>
 
 # Fixed models
 > Pinsir (shiny alternative)<br>
