@@ -17,6 +17,7 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Iron Revival (CAN'T FIX, Model is not given by the Delta Team)<br>
 
 # Fixed models
-> Pinsir (shiny alternative)<br>
+> Pinsir (Shiny alternative)<br>
 > Porygon-Z (Game Corner)<br>
-> Steelix Mega Shiny (didn't have a model)<br>
+> Slowking (Shiny alternative)<br>
+> Steelix Mega Shiny (model wasn't assigned properly)<br>
