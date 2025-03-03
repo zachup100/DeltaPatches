@@ -1,6 +1,6 @@
 # Cobblemon with missing models, or messed up textures
-This is our list, containing cobblemon that was reporting to us that have issues.
-Please be aware, that only one person is working on fixing the textures. So it may take us some time to get to your cobblemon!
+This is our list, containing cobblemon that was reported to us that have some issues.
+Please be aware, that only one person is working on fixing the textures. So it may take us some time to get to one of the cobblemon!
 
 # Broken Textures
 > Pinsir (shiny_alt)<br>
