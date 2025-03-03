@@ -6,9 +6,10 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Mamoswine (shiny_alt)<br>
 > Cinderace (shiny_alt)<br>
 > Delphox (shiny_alt)<br>
-> Weepinbell (Pink)<br>
-> Snowrunt (Pink)<br>
-> Gyarados (NO IDEA WHAT THE TEXTURE IS)<br>
+> Garchomp (shiny_alt)<br>
+> Gyarados (Unknown, need more details)<br>
+> 
+> Yes, we know all the Pinkan models are broken. That'll take a long time before finishing these.
 
 # Missing Models
 > Rising Phoenix (CAN'T FIX, Model is not given by the Delta Team)<br>
@@ -16,7 +17,9 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Iron Revival (CAN'T FIX, Model is not given by the Delta Team)<br>
 
 # Fixed models
-> Pinsir (Shiny alternative)<br>
 > Porygon-Z (Game Corner)<br>
+> Pinsir (Shiny alternative)<br>
 > Slowking (Shiny alternative)<br>
 > Steelix Mega Shiny (model wasn't assigned properly)<br>
+> 
+> Pinkan Variants: Swinub<br>
