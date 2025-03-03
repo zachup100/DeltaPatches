@@ -3,7 +3,6 @@ This is our list, containing cobblemon that was reported to us that have some is
 Please be aware, that only one person is working on fixing the textures. So it may take us some time to get to one of the cobblemon!
 
 # Broken Textures
-> Slowking (shiny_alt)<br>
 > Mamoswine (shiny_alt)<br>
 > Cinderace (shiny_alt)<br>
 > Delphox (shiny_alt)<br>
