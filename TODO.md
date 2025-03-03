@@ -6,6 +6,7 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Pinsir (shiny_alt)<br>
 > Slowking (shiny_alt)<br>
 > Mamoswine (shiny_alt)<br>
+> Cinderace (shiny_alt)<br>
 > Delphox (shiny_alt)<br>
 > Weepinbell (Pink)<br>
 > Snowrunt (Pink)<br>
