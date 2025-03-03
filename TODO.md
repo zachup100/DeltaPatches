@@ -7,6 +7,9 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Slowking (shiny_alt)<br>
 > Mamoswine (shiny_alt)<br>
 > Delphox (shiny_alt)<br>
+> Weepinbell (Pink)<br>
+> Snowrunt (Pink)<br>
+> Gyarados (NO IDEA WHAT THE TEXTURE IS)<br>
 
 # Missing Models
 > Rising Phoenix (CAN'T FIX, Model is not given by the Delta Team)<br>
