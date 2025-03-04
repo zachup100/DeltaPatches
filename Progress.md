@@ -15,6 +15,9 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Whirling Abyss (CAN'T FIX, Model is not given by the Delta Team)<br>
 > Iron Revival (CAN'T FIX, Model is not given by the Delta Team)<br>
 
+# Missing language strings
+> cobblemon.battle.damage.gmaxsteelsurge
+
 # Fixed models
 > Porygon-Z (Game Corner)<br>
 > Pinsir (Shiny alternative)<br>
