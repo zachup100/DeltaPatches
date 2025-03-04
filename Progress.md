@@ -16,8 +16,8 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Iron Revival (CAN'T FIX, Model is not given by the Delta Team)<br>
 
 # Missing language strings
-> cobblemon.battle.damage.gmaxsteelsurge
-> -- Saw in a battle, unsure of what it's meant to say. Text displays as red, such as "Pokemon is Immune!"
+> cobblemon.battle.damage.gmaxsteelsurge<br>
+> -- Saw in a battle, unsure of what it's meant to say. Text displays as red, such as "Pokemon is Immune!"<br>
 
 # Fixed models
 > Porygon-Z (Game Corner)<br>
