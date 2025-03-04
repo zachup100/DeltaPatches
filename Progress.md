@@ -25,6 +25,6 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Slowking (Shiny alternative)<br>
 > Garchomp (Shiny alternative)<br>
 > Steelix Mega Shiny (model wasn't assigned properly)<br>
-> Lopunny Mega (Animation wasn't assigned)<br>
+> Lopunny Mega (Animation wasn't registering, using Normal Lopunny's animations)<br>
 > 
 > Pinkan Variants: Swinub<br>
