@@ -6,6 +6,7 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Mamoswine (shiny_alt)<br>
 > Cinderace (shiny_alt)<br>
 > Delphox (shiny_alt)<br>
+> Serperior (shadow crate)<br>
 > Gyarados (Unknown, need more details)<br>
 > 
 > Yes, we know all the Pinkan models are broken. That'll take a long time before finishing these.
