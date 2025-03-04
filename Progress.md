@@ -6,7 +6,6 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Mamoswine (shiny_alt)<br>
 > Cinderace (shiny_alt)<br>
 > Delphox (shiny_alt)<br>
-> Garchomp (shiny_alt)<br>
 > Gyarados (Unknown, need more details)<br>
 > 
 > Yes, we know all the Pinkan models are broken. That'll take a long time before finishing these.
@@ -20,6 +19,7 @@ Please be aware, that only one person is working on fixing the textures. So it m
 > Porygon-Z (Game Corner)<br>
 > Pinsir (Shiny alternative)<br>
 > Slowking (Shiny alternative)<br>
+> Garchomp (Shiny alternative)<br>
 > Steelix Mega Shiny (model wasn't assigned properly)<br>
 > 
 > Pinkan Variants: Swinub<br>
